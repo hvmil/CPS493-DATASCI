@@ -1,0 +1,14 @@
+
+
+1.1. Clean the massive dataset
+    - >datasets > Covid-19 Nursing Home data sets:
+        - each csv is one year
+        - lets try to clean the data so we have data on each nursing home throughout the entire 3 years. 
+    - We need to combine the massive datasets
+        then, remove unwanted columns
+            then, indicate null values (NaN)
+                then, remove that don't pass the quality assurance indicator.
+
+1.2. Find linear relationships in the data 
+    -We need to find linear relationships to implement multivarible regression models.
+    -This would also let us know what columns we will use.

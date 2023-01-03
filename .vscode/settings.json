@@ -1,0 +1,5 @@
+{
+    "python.analysis.extraPaths": [
+        "./datasets/Covid-19 Nursing Home Data"
+    ]
+}
